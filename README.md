@@ -1,7 +1,7 @@
 # ANPR_INDIANCARS_YOLOV3
 Automatic Number Plate Recognition and Blurring for Indian Cars
 
-![](img7.jpg) ![](lp_predicted.png)
+![](lp_test.png) ![](lp_predicted.png)
 
 
 The real-world need for License Plate detection on Indian cars has inspired this work to create the dataset of Indian cars with license plates, annotate the license plates, and train Yolov3 model on this data.  
